@@ -51,3 +51,7 @@
 <br/>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=code-simple&theme=vision-friendly-dark)](https://git.io/streak-stats)
+<br>
+<br>
+<h3 align="left">Donate a ☕</h3>
+<p><a href="https://www.buymeacoffee.com/imran1102"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="imran1102" /></a></p>
