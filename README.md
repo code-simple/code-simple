@@ -54,4 +54,4 @@
 <br>
 <br>
 <h3 align="left">Donate a ☕</h3>
-<p><a href="https://www.buymeacoffee.com/imran1102"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="imran1102" /></a></p>
+<p><a href="https://www.buymeacoffee.com/code.simple"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="imran1102" /></a></p>
