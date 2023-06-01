@@ -1,7 +1,7 @@
 
 <p align="center"> 
  <img src="https://media.giphy.com/media/TCBJw2ZLdeOg2bDyLh/giphy.gif" width="200px" height="200px"/>
- > <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 </p>
 
 <h2 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
