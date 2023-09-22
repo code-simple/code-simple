@@ -10,7 +10,7 @@
 
 
 
-- 🔭 I’m currently working on **frontend projects using React.js , Next.js**
+- 🔭 I’m currently working on **[LivelyPencil App](https://www.livelypencil.com/)  , Next.js**
 
 - 🌱 I’m currently learning **Next.js**
 
