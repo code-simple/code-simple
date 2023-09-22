@@ -6,7 +6,8 @@
 
 <h2 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
-![]([(https://readme-typing-svg.herokuapp.com?font=Sriracha&color=4901AF&lines=I'm+a+Front+-end+Developer](https://readme-typing-svg.herokuapp.com/?font=Sriracha&color=4901AF&lines=I%27m+Mobile+and+Web+Developer))
+![](https://readme-typing-svg.herokuapp.com?font=Sriracha&color=4901AF&lines=I'm+a+Front+-end+Developer)
+
 
 
 - 🔭 I’m currently working on **frontend projects using React.js , Next.js**
