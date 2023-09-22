@@ -10,13 +10,13 @@
 
 
 
-- 🔭 I’m currently working on **[LivelyPencil App](https://www.livelypencil.com/)  , Next.js**
+- 🔭 I’m currently working on **[LivelyPencil App](https://www.livelypencil.com/)**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **NestJs**
 
 - 👯 I’m looking to collaborate on **with other content creators**
 
-- 💬 Ask me about **JavaScript ReactJs NextJs**
+- 💬 Ask me about **JavaScript ReactJs NextJs React Native**
 
 - 📫 How to reach me **imran1102@gmail.com**
 
