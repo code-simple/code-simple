@@ -6,7 +6,7 @@
 
 <h2 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
-![](https://readme-typing-svg.herokuapp.com?font=Sriracha&color=4901AF&lines=I'm+Mobile+and+Web+developer)
+![](https://readme-typing-svg.herokuapp.com/?font=Sriracha&color=00aaff&lines=I%27m+Mobile+and+Web+developer)
 
 
 
